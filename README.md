@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Utkarzxhh/Utkarzxhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi there 👋
+I'm a passionate developer with expertise in Python, Web Development and SQL. I'm currently learning C programming and 3D modeling with Fusion 360. 
+My interests lie in drones, machine learning, robotics and building innovative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Skills: Python | Web Dev | SQL | Learning C & Fusion 360.
+
+🚀 Projects: Working on drones, ML models, robotics, and 3D design.
+
+🤝 Collaboration: Always open to collaborating on exciting projects!
+
+Let's connect and build something amazing together! 🌟
+
